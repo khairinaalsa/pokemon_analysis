@@ -18,3 +18,5 @@ I'm using Pokemon dataset from Dibimbing.id on this link : https://bit.ly/data-p
 6. The accuracy score of the KNN algorithm is 0.95 with a k value of 1.
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : khairinaalsa@gmail.com and https://www.linkedin.com/in/khairinaaltaf/
+
+#python #pokemon #knn #visualization
