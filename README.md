@@ -1,4 +1,4 @@
-# pokemon_analysis
+# Pokemon_Analysis
 I'm using Pokemon dataset from Dibimbing.id on this link : https://bit.ly/data-pokemon-dsf. This dataset contains information about 800 Pokemon from six Pokemon Generations, including their types and various statistics. Aside from fulfilling the tasks of the Digital Skill Fair – Data Science organized by Dibimbing, this data is highly intriguing for further analysis and exploration.
 
 ### Goals
