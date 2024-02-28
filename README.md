@@ -8,3 +8,13 @@ I'm using Pokemon dataset from Dibimbing.id on this link : https://bit.ly/data-p
 4. Which Pokemon type is the strongest?
 5. What is the correlation between each attribute?
 6. Classifying Pokemon, whether they are Legendary or not?
+
+### Insights
+1. There are six generations in Pokemon. The first Pokemon generation has the highest number and the fewest Pokemon is the sixth generation. 
+2. The most common type of Pokemon is the Water type.
+3. The Pokemon named Rayquaza Mega Rayquaza, Mewtwo Mega Mewtwo Y, and Mewtwo Mega Mewtwo X have the highest total.
+4. The attributes Total and Sp. Atk have the strongest correlation, which is 0.75.
+5. The column "Legendary" has two outputs, namely True and False. The number of False values is significantly larger than the True values.
+6. The accuracy score of the KNN algorithm is 0.95 with a k value of 1.
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : khairinaalsa@gmail.com and https://www.linkedin.com/in/khairinaaltaf/
